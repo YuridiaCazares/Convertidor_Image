@@ -3,7 +3,7 @@ const fs = require('fs'); //Agregamos el modulo fs
 
 
 //Creamos nuestras constantes de entrada y salida
-const imagenEntrada = `image.bmp`;
+const imagenEntrada = `imagen.bmp`;
 const imagen_bin = `imagen_bin.bmp`;
 const imagen_bn = `imagen_bn.bmp`;
 const imagen_sep = `imagen_sep.bmp`;
